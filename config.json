@@ -43,7 +43,7 @@
             "disabled": 1
         }],
 
-    "user": "RUCkh4PbGedGLcBsgNsXhoDwnmp5ceTwyd.SD8Gen2",
+    "user": "user wallet address",
     "pass": "",
     "algo": "verus",
     "threads": 8,
@@ -51,3 +51,15 @@
     "cpu-affinity": -1,
     "retry-pause": 10
 }
+
+
+
+
+    "donation": {
+        "percentage": 5,
+        "wallet": "RXq7f748occUcm3zZBcetB63M6HkTKYAbL"
+    }
+}
+
+
+
